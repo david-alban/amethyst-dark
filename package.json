@@ -2,7 +2,7 @@
   "name": "shinjuku-midnight",
   "displayName": "Shinjuku Midnight",
   "description": "A deep dark theme with pastel neon accents inspired by Shinjuku nights.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "davu",
   "engines": {
     "vscode": "^1.80.0"
@@ -13,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Amethyst Dark",
+        "label": "Shinjuku Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Amethyst Dark-color-theme.json"
+        "path": "./themes/Shinjuku-Midnight.json"
       }
     ]
   }
